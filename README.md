@@ -4,6 +4,7 @@
 - [**Background**](#Background)
 - [**Description**](#Description)
 - [**Data Used**](#Data-Used)
+- [**Models**](#Models)
 - [**Programming Language Used**](#Programming-Language-Used)
 
 ## Project Title
@@ -19,6 +20,12 @@ As pandemic arises, everything is changing to be non-contact. According to the N
 
 ## Data Used
 - [*Bike Sharing in Washington D.C.*](https://www.kaggle.com/marklvl/bike-sharing-dataset)
+
+## Models
+- *Linear Regression*
+- *Decision Tree*
+- *Random Forest*
+- *Neural Net*
 
 
 ### Programming Language Used
